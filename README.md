@@ -1,5 +1,5 @@
 # About me:
-:one: I'm a computer science student.<br/>
+:one: I'm a computer science student (4/8).<br/>
 :two: I know python, r, sql, mysql, django and git.<br/>
 :three: I speak Portuguese and I'm learning English.<br/> 
 :four: I have experience in IT on support area.<br/>
