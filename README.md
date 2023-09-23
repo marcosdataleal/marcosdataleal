@@ -21,4 +21,9 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)<br>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)<br>
+
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=marcosdataleal&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
