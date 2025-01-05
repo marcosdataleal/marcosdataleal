@@ -1,8 +1,8 @@
 # About me:
 :one: I'm a computer science student (7/8).<br/>
-:two: I know Python, R, SQL, MySQL, Git and I'm studying Julia.<br/>
+:two: I know Python, R, SQL, MySQL, Git and I'm studying cloud.<br/>
 :three: I speak Portuguese and I'm learning English.<br/> 
-:four: I have experience in IT on support area.<br/>
+:four: I have experience in IT on support area and cloud architecture.<br/>
 :five: I'm always learning something new and discovering new things.</a><br/><br>
 
 ![-----------------------------------------------------](
