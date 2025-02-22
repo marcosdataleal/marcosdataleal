@@ -1,8 +1,8 @@
 # About me:
 :one: I'm a computer science student (7/8).<br/>
-:two: I know Python, R, SQL, MySQL, Git and I'm studying cloud.<br/>
+:two: I know Python, R, SQL, MySQL, Git and I'm studying cloud computing.<br/>
 :three: I speak Portuguese and I'm learning English.<br/> 
-:four: I have experience in IT on support area and cloud architecture.<br/>
+:four: I have experience in IT on support area and data architecture.<br/>
 :five: I'm always learning something new and discovering new things.</a><br/><br>
 
 ![-----------------------------------------------------](
@@ -21,9 +21,3 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)<br>
-
-![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)<br>
-
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=marcosdataleal&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
