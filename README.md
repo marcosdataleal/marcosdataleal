@@ -29,12 +29,3 @@
 ![Data Modeling](https://img.shields.io/badge/Modeling-0064a5?style=flat-square)
 ![ETL](https://img.shields.io/badge/ETL-4B8BBE?style=flat-square)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
-
----
-
-### Metrics & Development
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-data-leal&show_icons=true&theme=distinguished&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-data-leal&layout=compact&langs_count=7&theme=distinguished&hide_border=true"/>
-</div>
