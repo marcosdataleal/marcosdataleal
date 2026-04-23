@@ -1,8 +1,9 @@
-# Data & BI Analyst
+## Data & BI Analyst
 
 ---
 
-### Professional Profile
+## Professional Profile
+
 * **Academic Background:** Graduated in Computer Science.
 * **Core Expertise:** Specialist in designing and implementing scalable data pipelines, ETL processes, and multidimensional modeling.
 * **Technical Focus:** Advanced development in Python and SQL for big data environments (Databricks/Spark) and cloud infrastructure (AWS/Azure).
@@ -10,7 +11,7 @@
 
 ---
 
-### Technical Ecosystem
+## Technical Ecosystem
 
 <div align="center">
 
@@ -20,7 +21,10 @@
 
 </div>
 
-#### Skills & Frameworks
+---
+
+## Skills & Frameworks
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=flat-square&logo=databricks&logoColor=white)
