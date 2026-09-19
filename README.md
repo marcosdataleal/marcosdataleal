@@ -4,10 +4,13 @@
 
 ## Professional Profile
 
-* **Academic Background:** Graduated in Computer Science.
-* **Core Expertise:** Specialist in designing and implementing scalable data pipelines, ETL processes, and multidimensional modeling.
-* **Technical Focus:** Advanced development in Python and SQL for big data environments (Databricks/Spark) and cloud infrastructure (AWS/Azure).
-* **Communication:** I'm form Brazil and speak native Portuguese, but I have English proficiency in progress.
+* **Academic background:** Graduated in computer science.
+* **Data & BI expertise:** Experience in data analysis, business intelligence, KPI monitoring, dashboards and commercial performance analysis.
+* **Technical skills:** Python, SQL, Excel, Power BI, Power Query, DAX, ETL processes, data pipelines and automations.
+* **Business & CRM:** Experience with CRM, HubSpot, sales funnels, forecasting and commercial indicators.
+* **Data visualization & monitoring:** Experience with Power BI and Grafana for data visualization, performance monitoring and decision support.
+* **Artificial intelligence:** Knowledge of Fine-Tuning and applications of AI for data and business solutions.
+* **Communication:** I'm from Brazil and a native Portuguese speaker, with advanced English proficiency.
 
 ---
 
